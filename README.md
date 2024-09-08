@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Aryanr0se
--  I am currently a student at Welham Boys' School in Dehradun, a leading boarding school for boys in India. Originally from the City of Sonipat.
+-  I am currently a freshman at Michigan State University, graduated from Welham Boys' School in Dehradun,India. 
 - 🌱 I’m currently learning Java and Python.
-- 📫 How to reach me - https://www.instagram.com/aryan_r0se/
+- 📫 How to reach me - https://www.linkedin.com/in/aryan-rose-161035213/
+                        
 
 <!---
 Aryanr0se/Aryanr0se is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
